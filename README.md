@@ -1,6 +1,6 @@
 # BruteForceZip
 Cot
-*Harus Jago Buat Wordlist!!
+* Harus Jago Buat Wordlist!!
 * pkg update && pkg upgrade
 * pkg install python
 * pkg install git

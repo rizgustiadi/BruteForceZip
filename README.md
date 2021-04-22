@@ -1,4 +1,5 @@
 # BruteForceZip
+# Tools Ga Guna Jan Di Pake
 * INGAT LETAKAN TOOLS DENGAN FILE ZIP YANG INGIN DI BRUTE!!
 * Harus Jago Buat Wordlist!!
 * pkg update && pkg upgrade
